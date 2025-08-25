@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="100%" alt="Banner" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=👋+Xin+chào%2C+mình+là+Tấn+Phát!;💻+Web+Developer+%7C+Sinh+viên+IUH;🚀+Luôn+học+hỏi+%26+xây+dựng+kiến+thức;☕+Code+đêm+là+chân+ái" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=👋+Xin+chào%2C+mình+là+Phát!;💻+Web+Developer+%7C+Sinh+viên+IUH;🚀+Luôn+học+hỏi+%26+xây+dựng+kiến+thức;☕+Code+đêm+là+chân+ái" alt="Typing SVG" />
 </h1>
 
 <p align="center">
